@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "bluebird": "^3.4.1",
-    "canvas": "^1.4.0",
+    "canvas": "^2.0.0",
     "han-css": "^3.3.0",
     "jsdom": "^9.4.1"
   }
